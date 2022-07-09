@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @swapnaniltechy
-- 👀 I’m interested in k-drama, coding, gaming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter
-- 📫 Reach me at insta @notswapnanil
